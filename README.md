@@ -6,7 +6,7 @@ Simply download the repository and setup local web server for chrome by download
 Give the path in chrome web server where the **index.html** is located in the project. Now, open the link provided by the web chrome server & enjoy ... :)
 
 ## Online Demonstration
-Click [here](https://editor.p5js.org/undefined/present/fk5mY7e1r) to see it work instantly.
+Click [here](https://editor.p5js.org/Kivtas/present/Mlf1soV1N) to see it work instantly.
 
 ## Instructions on how to operate
 Within the boundary **left click**  to create or destroy a tile at any point. **Hold right click** to illuminate with light.
