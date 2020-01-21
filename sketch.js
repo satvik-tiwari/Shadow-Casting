@@ -15,7 +15,7 @@ let light_sound;
 
 function preload()
 {
-  tile_sound = loadSound("Sounds/Input.mp3");
+  tile_sound = loadSound("Sounds/CodingPower.mp3");
   light_sound = loadSound("Sounds/SciFi.mp3");
       //"Sounds/Input-02.mp3");
 }
