@@ -1,6 +1,8 @@
 # Shadow-Casting
 An implementation of shadow casting game mechanic used in indie games - Nothing To Hide, Gish and Bacanno.
 
+![](https://github.com/satvik-tiwari/Shadow-Casting/blob/master/Gif/ShadowCasting.gif)
+
 ## How to get it working in your machine?
 Simply download the repository and setup local web server for chrome by downloading [this](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en). 
 Give the path in chrome web server where the **index.html** is located in the project. Now, open the link provided by the web chrome server & enjoy ... :)
